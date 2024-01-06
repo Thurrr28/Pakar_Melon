@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="_x38_8ce59e9-c4b8-4d1d-9d7a-ce0190159aa8" style="" viewBox="0 0 231.8 231.8" x="0px" y="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve" version="1.1">
+<style type="text/css">
+	.st0{opacity:0.5;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#F5F5F5;}
+	.st3{fill:#4E73DF;}
+	.st4{fill:#72351C;}
+	.st5{opacity:0.1;enable-background:new    ;}
+	.st6{fill:#FDA57D;}
+</style>
+<g class="st0">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 -1 0 758)" x1="115.89" y1="526.22" x2="115.89" y2="758">
+		<stop style="stop-color: rgb(128, 128, 128); stop-opacity: 0.25;" offset="0" />
+		<stop style="stop-color: rgb(128, 128, 128); stop-opacity: 0.12;" offset="0.54" />
+		<stop style="stop-color: rgb(128, 128, 128); stop-opacity: 0.1;" offset="1" />
+	</linearGradient>
+	<circle class="st1" cx="115.9" cy="115.9" r="115.9" />
+</g>
+<circle class="st2" cx="116.1" cy="115.1" r="113.4" />
+<path class="st3" d="M 116.2 229 c 22.2 0 43.9 -6.5 62.4 -18.7 c -4.2 -22.9 -20.1 -24.2 -20.1 -24.2 H 70.8 c 0 0 -15 1.2 -19.7 22.2 C 70.1 221.9 92.9 229.1 116.2 229 Z" />
+<circle class="st4" cx="115" cy="112.8" r="54.8" />
+<path class="st5" d="M 97.3 158.4 h 35.1 l 0 0 v 28.1 c 0 9.7 -7.8 17.6 -17.5 17.6 c 0 0 0 0 0 0 l 0 0 c -9.7 0 -17.5 -7.9 -17.5 -17.5 L 97.3 158.4 L 97.3 158.4 Z" />
+<path class="st6" d="M 100.7 157.1 h 28.4 c 1.9 0 3.3 1.5 3.3 3.4 v 24.7 c 0 9.7 -7.9 17.5 -17.5 17.5 l 0 0 c -9.7 0 -17.5 -7.9 -17.5 -17.5 v -24.7 C 97.3 158.6 98.8 157.1 100.7 157.1 L 100.7 157.1 Z" />
+<path class="st5" d="M 97.4 171.6 c 11.3 4.2 23.8 4.3 35.1 0.1 v -4.3 H 97.4 V 171.6 Z" />
+<circle class="st6" cx="115" cy="123.7" r="50.3" />
+<path class="st5" d="M 79.2 77.9 c 0 0 21.2 43 81 18 l -13.9 -21.8 l -24.7 -8.9 L 79.2 77.9 Z" />
+<path class="st4" d="M 79.2 77.3 c 0 0 21.2 43 81 18 l -13.9 -21.8 l -24.7 -8.9 L 79.2 77.3 Z" />
+<path class="st4" d="M 79 74.4 c 1.4 -4.4 3.9 -8.4 7.2 -11.7 c 9.9 -9.8 26.1 -11.8 34.4 -23 c 1.8 3.1 0.7 7.1 -2.4 8.9 c -0.2 0.1 -0.4 0.2 -0.6 0.3 c 8 -0.1 17.2 -0.8 21.7 -7.3 c 2.3 5.3 1.3 11.4 -2.5 15.7 c 7.1 0.3 14.6 5.1 15.1 12.2 c 0.3 4.7 -2.6 9.1 -6.5 11.9 s -8.5 3.9 -13.1 4.9 C 118.8 89.2 70.3 101.6 79 74.4 Z" />
+<path class="st4" d="M 165.3 124.1 H 164 L 138 147.2 c -25 -11.7 -43.3 0 -43.3 0 l -27.2 -22.1 l -2.7 0.3 c 0.8 27.8 23.9 49.6 51.7 48.9 C 143.6 173.5 165.3 151.3 165.3 124.1 L 165.3 124.1 Z M 115 156.1 c -9.8 0 -17.7 -2 -17.7 -4.4 s 7.9 -4.4 17.7 -4.4 s 17.7 2 17.7 4.4 S 124.7 156.1 115 156.1 L 115 156.1 Z" />
+<ellipse class="st6" cx="64.7" cy="123.6" rx="4.7" ry="8.8" />
+<ellipse class="st6" cx="165.3" cy="123.6" rx="4.7" ry="8.8" />
+</svg>
