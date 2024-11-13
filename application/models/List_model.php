@@ -3,43 +3,38 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 class List_model extends CI_Model
 {
-    public function getTablelist()
-    {
-        return $this->db->get('table_rps')->result_array();
-    }
-    public function getDatarpsById($id)
-    {
-        return $this->db->get_where('table_rps', ['id_rps' => $id])->row_array();
-    }
-    public function getDataMateriById($id)
-    {
-        return $this->db->get_where('table_materi', ['id_materi' => $id])->row_array();
-    }
-    public function getTablemateri()
-    {
-        return $this->db->get('table_materi')->result_array();
-    }
-    public function getTablejadwal()
-    {
-        return $this->db->get('jadwal')->result_array();
-    }
-    public function getTablejadwalById($id)
-    {
-        return $this->db->get_where('jadwal', ['id_jadwal' => $id])->row_array();
-    }
     public function delete($id_rps)
     {
         $this->db->where('id_rps', $id_rps);
         $this->db->delete('table_rps');
     }
-    public function deleteMateri($id_materi)
+
+    public function getDataHama()
     {
-        $this->db->where('id_materi', $id_materi);
-        $this->db->delete('table_materi');
+        return $this->db->get('data_hama')->result_array();
     }
-    public function deleteJadwal($id_jadwal)
+    public function getDataPenyakit()
     {
-        $this->db->where('id_jadwal', $id_jadwal);
-        $this->db->delete('jadwal');
+        return $this->db->get('data_penyakit')->result_array();
+    }
+
+    public function getDataHamaid($id)
+    {
+        return $this->db->get_where('data_hama', ['id' => $id])->row_array();
+    }
+    public function getDataPenyakitid($id)
+    {
+        return $this->db->get_where('data_penyakit', ['id' => $id])->row_array();
+    }
+
+    public function deletehama($id)
+    {
+        $this->db->where('id', $id);
+        $this->db->delete('data_hama');
+    }
+    public function deletepenyakit($id)
+    {
+        $this->db->where('id', $id);
+        $this->db->delete('data_penyakit');
     }
 }

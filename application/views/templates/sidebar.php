@@ -1,12 +1,12 @@
 <!-- Sidebar -->
-<ul class="navbar-nav sidebar sidebar-dark accordion d-print-none" id="accordionSidebar" style="background-color: darkslateblue ;">
+<ul class="navbar-nav sidebar sidebar-dark accordion d-print-none" id="accordionSidebar" style="background-color: ForestGreen ;">
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?= base_url('user/index'); ?>">
-        <div class="sidebar-brand-icon rotate-n-15">
-            <img src="<?= base_url('assets/'); ?>img/one.png" alt="" height="50vh">
+        <div class="sidebar-brand-icon">
+            <img src="<?= base_url('assets/'); ?>img/walawe.png" alt="" height="50vh">
         </div>
-        <div class="sidebar-brand-text mx-3"><i>Universitas Amikom</i></div>
+        <div class="sidebar-brand-text mx-3"><i>Pakar Melon</i></div>
     </a>
     </a>
 

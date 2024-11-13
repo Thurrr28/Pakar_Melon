@@ -27,7 +27,7 @@
                 <div class="col-sm-10">
                     <div class="row">
                         <div class="col-sm-3">
-                            <img src="<?= base_url('assets/img/profile/') . $user['image']; ?>" class="img-tumbnail">
+                            <img src="<?= base_url('assets/img/profile/') . $user['image']; ?>" style="width: 150px" class="img-tumbnail">
                         </div>
                         <div class="col-sm-9">
                             <div class="custom-file">

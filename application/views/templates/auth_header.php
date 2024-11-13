@@ -12,7 +12,7 @@
     <title>
         <?= $title; ?>
     </title>
-    <link rel="icon"href="<?= base_url('assets/'); ?>img/one.png" type="">
+    <link rel="icon"href="<?= base_url('assets/'); ?>img/walawe.png" type="">
 
     <!-- Custom fonts for this template-->
     <link href="<?= base_url('assets/');  ?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -25,4 +25,4 @@
 
 </head>
 
-<body class="d-flex min-vh-100 justify-content-center align-items-center" style="background-color: darkslateblue;">
+<body class="d-flex min-vh-100 justify-content-center align-items-center" style="background-color: ForestGreen;">
